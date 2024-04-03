@@ -1,0 +1,7 @@
+Send("C:\Users\91860\Downloads\chapter 1.pdf")
+Sleep(500)
+send("{TAB}")
+Sleep(500)
+send("{TAB}")
+Sleep(500)
+send("{ENTER}")
